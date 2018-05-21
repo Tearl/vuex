@@ -6,6 +6,7 @@
     <input type="button" value="偶数才能点击" @click="clickOdd">
     <input type="button" value="点击异步增加" @click="clicknysc">
     <div>现在数字为: {{count}}, 它是个 {{getOdd}}</div>
+    <div>111222</div>
   </div>
 </template>
 
